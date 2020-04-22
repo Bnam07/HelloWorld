@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     /*
     this is first commit
     this is my second commit
+    this is my third commit - direct push
      */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
