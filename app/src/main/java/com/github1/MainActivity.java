@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     /*
     this is first commit
+    this is my second commit
      */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
